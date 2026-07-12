@@ -10,6 +10,8 @@ Community Library
 |---|---|---|
 | Bhawna Tyagi | btyagi-code | btyagi@umass.edu |
 |Grace Huang | huang-grace05|ghuang@umass.edu |
+|Erik Liu |ekliu3|erikliu@umass.edu|
+
 
 
 ## Domain Description
